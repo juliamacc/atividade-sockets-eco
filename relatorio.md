@@ -1,7 +1,7 @@
 # Relatório — Atividade Prática: Sockets TCP
 
-**Disciplina:** Sistemas Distribuídos
-**Dupla:** Julia Macedo de Castro
+**Disciplina:** Computação Distribuída
+**Nome:** Julia Macedo de Castro
 **Data:** 23/11/2026
 
 ---
